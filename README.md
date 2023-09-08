@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservice architecture.**
 
-- 👯 I’m looking to collaborate on **on MERN stack projects.**
+- 👯 I’m looking to collaborate on **MERN stack projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnPaceCoder](https://github.com/OnPaceCoder)
 
