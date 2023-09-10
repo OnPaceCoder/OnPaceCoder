@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyank Vasoya</h1>
 <h3 align="center">A Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Food Delivery Application.**
+- 🔭 I’m currently working on **E-Commerce Application.**
 
 - 🌱 I’m currently learning **Microservice architecture.**
 
