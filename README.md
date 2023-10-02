@@ -35,3 +35,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onpacecoder&show_icons=true&locale=en&layout=compact" alt="onpacecoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onpacecoder&" alt="onpacecoder" /></p>
+[![An image of @onpacecoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onpacecoder)](https://holopin.io/@onpacecoder)
