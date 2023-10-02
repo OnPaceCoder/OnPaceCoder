@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyank Vasoya</h1>
-[![An image of @onpacecoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onpacecoder)](https://holopin.io/@onpacecoder)
+
 <h3 align="center">A Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **E-Commerce Application.**
