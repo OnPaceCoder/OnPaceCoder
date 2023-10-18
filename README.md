@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Application.**
 
-- 🌱 I’m currently learning **Microservice architecture.**
+- 🌱 I’m currently learning **Microeconomics.**
 
 - 👯 I’m looking to collaborate on **MERN stack projects.**
 
