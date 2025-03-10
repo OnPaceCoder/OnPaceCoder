@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web development or blockchain.**
 
-- 📫 How to reach me **priyankvasoya.dev@gmail.com**
+- 📫 How to reach me **priyankvasoya7@gmail.com**
 
 - ⚡ Fun fact **"Did you know that JavaScript was originally developed in just 10 days? In 1995, Brendan Eich created the first version of JavaScript for Netscape Navigator in an incredibly tight timeframe. Talk about coding at warp speed! It's like the 'The Flash' of programming languages, but with fewer superpowers. ⚡️🚀"**
 
