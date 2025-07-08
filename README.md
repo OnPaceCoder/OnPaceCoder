@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyank Vasoya</h1>
 
-<h3 align="center">A Software Developer from Australia</h3>
+<h3 align="center">A Software Developer based in Australia</h3>
 
 - 🔭 I’m currently working on **E-Commerce Application.**
 
