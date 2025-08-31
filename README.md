@@ -2,15 +2,15 @@
 
 <h3 align="center">A Software Developer based in Australia</h3>
 
-- 🔭 I’m currently working on **E-Commerce Application.**
+- 🔭 I’m currently pursuing Masters of Information Technology from QUT
 
-- 🌱 I’m currently learning **Microeconomics.**
+- 🌱 I’m currently learning **AWS Cloud Services.**
 
-- 👯 I’m looking to collaborate on **MERN stack projects.**
+- 👯 I’m looking to collaborate on **AWS, Node.js and React.js projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnPaceCoder](https://github.com/OnPaceCoder)
 
-- 💬 Ask me about **Web development or blockchain.**
+- 💬 Ask me about **Web development or AWS.**
 
 - 📫 How to reach me **priyankvasoya7@gmail.com**
 
