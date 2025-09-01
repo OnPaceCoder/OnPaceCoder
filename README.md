@@ -22,6 +22,8 @@
   - Tours and Travels Website: https://onpacecoder.github.io/TravelUp7/
   - TicTacToe Game: https://tic-tac-toe-by-priyank.netlify.app/
   - UI/UX Design for DOST Portal: https://www.figma.com/design/55QZccaGaWyPrWKpQTxKrR/DOST-UI?node-id=0-1&p=f&t=nCZc7i67hbQoh3ah-0
+  - Digital Voting System for Students: Currently working on this project, it uses Draw.io for diagrams, Jira for project management, Git for version control, React.js and TailwindCSS for frontend development, Node.js for backend, Github Actions for CI/CD and finally AWS for deployment.
+  - Image Thumbnail Generator Application: Currently working on this project, here the user uploads the image and can process the image to generate the thumbnails in different quality and in different format, the project uses AWS CloudFormation(Iaac) to deploy EC2 and uses docker-compose to pull frontend and backend images and run the containers and deploy on EC2 instance.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
