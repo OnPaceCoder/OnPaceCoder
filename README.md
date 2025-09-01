@@ -16,6 +16,12 @@
 
 - ⚡ Fun fact **"Did you know that JavaScript was originally developed in just 10 days? In 1995, Brendan Eich created the first version of JavaScript for Netscape Navigator in an incredibly tight timeframe. Talk about coding at warp speed! It's like the 'The Flash' of programming languages, but with fewer superpowers. ⚡️🚀"**
 
+  Projects:
+  - LandWind: https://build-brand-tailwind.netlify.app/
+  - TicTacToe Game: https://tic-tac-toe-by-priyank.netlify.app/
+  - Tours and Travels Website: https://onpacecoder.github.io/TravelUp7/
+  - UI/UX Design for DOST Portal: https://www.figma.com/design/55QZccaGaWyPrWKpQTxKrR/DOST-UI?node-id=0-1&p=f&t=nCZc7i67hbQoh3ah-0
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyank-vasoya-0bb74419b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank-vasoya-0bb74419b" height="30" width="40" /></a>
