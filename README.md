@@ -17,7 +17,7 @@
 - ⚡ Fun fact **"Did you know that JavaScript was originally developed in just 10 days? In 1995, Brendan Eich created the first version of JavaScript for Netscape Navigator in an incredibly tight timeframe. Talk about coding at warp speed! It's like the 'The Flash' of programming languages, but with fewer superpowers. ⚡️🚀"**
 
   Projects:
-  - Food-Nation: https://food-nation-priyank.netlify.app/
+  - Food-Nation: https://food-nation-priyank.netlify.app/  (Note: Please wait for few seconds for backend server to spin up while using first time)
   - LandWind: https://build-brand-tailwind.netlify.app/
   - Tours and Travels Website: https://onpacecoder.github.io/TravelUp7/
   - TicTacToe Game: https://tic-tac-toe-by-priyank.netlify.app/
